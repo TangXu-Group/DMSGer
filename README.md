@@ -12,4 +12,4 @@ The versions of related packages when we conducted this experiment,
   ```CUDA==11.3```
   ```numpy==1.19.5```
 
-Of course, you might be able to run this code with in lower versions of these packages.
+Of course, you might be able to run this code in lower versions of these packages.
