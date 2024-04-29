@@ -17,7 +17,8 @@ Of course, you might be able to run this code in lower versions of these package
 
 
 Note, if your results of slic is as follows,
-![image](https://github.com/TangXu-Group/DMSGer/assets/74549002/3b63da0c-1e79-4e4f-91bf-fd06d7bdce48)
+<img src="https://github.com/TangXu-Group/DMSGer/assets/74549002/3b63da0c-1e79-4e4f-91bf-fd06d7bdce48" width="50%">
+
 Please update your sklearn version to 0.18.3.
 The correct result is as follows,
-![image](https://github.com/TangXu-Group/DMSGer/assets/74549002/3f23e829-19bf-4dd4-972b-022fa7321b64)
+<img src="https://github.com/TangXu-Group/DMSGer/assets/74549002/3f23e829-19bf-4dd4-972b-022fa7321b64" width="50%">
